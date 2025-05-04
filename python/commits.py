@@ -44,3 +44,6 @@ def calculate_price(number: float, ndigits: int | None = None) -> float:
 
 # """5."""
 # Добавила документацию для новой функции generateReport
+
+# """5."""
+# Добавила тесты для новой функции generateReport
