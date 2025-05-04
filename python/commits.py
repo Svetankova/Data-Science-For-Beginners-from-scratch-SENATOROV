@@ -21,7 +21,7 @@
 # git commit -m 'test: add tests for function generateReport'
 
 # +
-"""3."""
+"""2."""
 # def calculate_price(number):
 #     """
 #     Неправильно округляет число, просто отбрасывая дробную часть.
@@ -32,3 +32,9 @@
 def calculate_price(number: float, ndigits: int | None = None) -> float:
     """Правильно округляет число, используя встроенную функцию round()."""
     return round(number, ndigits)
+
+
+# -
+
+# """3."""
+# Создала новую функцию generateReport
