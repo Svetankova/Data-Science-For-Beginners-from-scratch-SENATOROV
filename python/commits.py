@@ -38,3 +38,6 @@ def calculate_price(number: float, ndigits: int | None = None) -> float:
 
 # """3."""
 # Создала новую функцию generateReport
+
+# """4."""
+# Исправила отступы и форматирование
