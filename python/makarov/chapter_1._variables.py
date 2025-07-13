@@ -110,3 +110,5 @@ new_method = [str(x5) for x5 in list5]
 
 # вариант 3: функции map() и list()
 list(map(str, list5))
+
+# работаем
